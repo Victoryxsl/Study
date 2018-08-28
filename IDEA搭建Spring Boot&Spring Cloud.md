@@ -2,22 +2,22 @@
 typora-root-url: IDEA搭建Spring Boot&Spring Cloud
 ---
 
-##IDEA搭建Spring Boot&Spring Cloud
+# IDEA搭建Spring Boot&Spring Cloud
 
   
 
 > 使用IDEA搭建Spring-Boot项目
 
-###介质安装
+### 介质安装
 
-####安装完成后
+#### 安装完成后
 
 + 创建新的项目
 + 导入已经创建的项目(通过.grade,.project,.pom加载项目)
 + 打开项目文件夹
 + 检出版本控制的项目(github,GIT,CVS)
 
-####导入已存在的项目
+#### 导入已存在的项目
 
 地址：<http://spring.io/guides/gs/spring-boot/>
 
